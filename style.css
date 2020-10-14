@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+body {
+	text-align: center;
+	background: saddlebrown;
+}
+* {
+	font-family: Poppins;
+	color: tomato;
+	font-size: 1.2em;
+}
+button {
+	background: tomato;
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	font-size: 27px;
+}
+input {
+	border: none;
+	background: none;
+}
+#number1, #number2 {
+	width: 50px;
+	color: yellow;
+}
+#player1 {
+	position: absolute;
+	top: 50%;
+	left: 20%;
+}
+#player2 {
+	position: absolute;
+	top: 50%;
+	left: 70%;
+}
+#keys {
+	position: absolute;
+	top: 60%;
+	left: 8%;
+}
+#keyl {
+	position: absolute;
+	top: 60%;
+	left: 55%;
+}
+#dialog {
+	width: 577px;
+}
