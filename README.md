@@ -1,1 +1,1 @@
-# My-click-game
+# my-click-game
